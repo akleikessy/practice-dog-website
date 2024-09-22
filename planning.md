@@ -1,7 +1,18 @@
 Markdown
-#website Design Plan
+## Website Design Plan
 
-Fist page design    ../design-plan/dog-website-page1.png
-Second page design  ../design-plan/dog-website-page2.png
-Third page design   ../design-plan/dog-website-page3.png
-Fourth page design  ../design-plan/dog-website-page3.png
+**First Page Design:**
+
+![First Page Design](../design-plan/dog-website-page1.png)
+
+**Second Page Design:**
+
+![Second Page Design](../design-plan/dog-website-page2.png)
+
+**Third Page Design:**
+
+![Third Page Design](../design-plan/dog-website-page3.png)
+
+**Fourth Page Design:**
+
+![Fourth Page Design](../design-plan/dog-website-page4.png)
