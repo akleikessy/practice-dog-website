@@ -8,6 +8,7 @@ body {
     justify-content: space-between;
     justify-items: center;
     padding: 2px 20px;
+    background-color: #41729F;
 }
 
 .navigation > ul {
@@ -18,9 +19,15 @@ body {
     padding-left: 0px;
 }
 
+.navigation > ul > li {
+    background-color: #5885AF;
+    padding: 5px;
+    border-radius: 5px;
+}
+
 .navigation > ul > li > a {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 .banner-img {
